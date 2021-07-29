@@ -40,3 +40,14 @@ header nav .menu a:hover {
   flex-wrap: wrap;
   justify-content: space-between;
 }
+.deckofCards .cardDIV {
+  background-color: #fff;
+  border: 1px solid #000;
+}
+.deckofCards .cardDIV p {
+  margin: 0;
+  padding: 3% 5%;
+}
+.deckofCards .cardDIV img {
+  width: 100%;
+}
