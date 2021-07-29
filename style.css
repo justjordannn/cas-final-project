@@ -10,7 +10,7 @@ img {
 footer {
   padding:3%
 }
-header { border:4px solid yellow;}
+
 header nav {
   background-color: #000;
   margin-bottom: 1%
@@ -33,5 +33,5 @@ header nav .menu a:hover {
 
 .hero {
   text-align: center;
-  padding: 5% 0;
+  padding: 5% 0; /* top/bottom is the 5% and right/left is the 0 */
 }
