@@ -35,3 +35,9 @@ header nav .menu a:hover {
   text-align: center;
   padding: 5% 0; /* top/bottom is the 5% and right/left is the 0 */
 }
+.deckofCards{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.deckofCards .cardDIV
