@@ -35,7 +35,7 @@ header nav .menu a:hover {
   text-align: center;
   padding: 5% 0; /* top/bottom is the 5% and right/left is the 0 */
   color: white;
-  height: 100vh;
+  height: 60vh;
   background-image: url(https://i.picsum.photos/id/1015/6000/4000.jpg?hmac=aHjb0fRa1t14DTIEBcoC12c5rAXOSwnVlaA5ujxPQ0I);
   background-repeat: no-repeat;
   background-size: cover;
